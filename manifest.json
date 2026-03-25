@@ -1,0 +1,50 @@
+{
+  "name": "Para Ashley 🌻",
+  "short_name": "Ashley 🌻",
+  "description": "Uma contagem regressiva romântica para o aniversário da Ashley",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFBEB",
+  "theme_color": "#F5C842",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "1.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    }
+  ],
+  "categories": ["lifestyle", "personalization"],
+  "shortcuts": [
+    {
+      "name": "Carta Romântica",
+      "short_name": "Carta",
+      "description": "Abrir a carta de amor para Ashley",
+      "url": "/?tela=carta",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Contagem Regressiva",
+      "short_name": "Contador",
+      "description": "Ver a contagem regressiva para o aniversário",
+      "url": "/?tela=home",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
