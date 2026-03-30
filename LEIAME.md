@@ -29,7 +29,7 @@ texto1: `Ashley, desde que você entrou...`,  // ✏️ Reescreva com suas palav
 texto2: `Que este aniversário seja...`,      // ✏️ Reescreva com suas palavras
 ```
 
-### Campo 2 — Fotos (opcional)
+### Campo 2 — Fotos 
 ```javascript
 foto1: "1.jpeg",   // ✏️ Troque pelo nome da foto que preferir
 foto2: "2.jpeg",   // ✏️ Troque pelo nome da foto que preferir
